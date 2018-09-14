@@ -7,4 +7,4 @@
 * Loading information from database.
 * Users can see through web page designed with css.
 
-![](image/Feature1)
+![](image/Feature1.png)
