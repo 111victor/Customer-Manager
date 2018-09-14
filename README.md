@@ -3,7 +3,7 @@
 
 **Customer-Manager** is a Spring MVC web based application connected with MySQL database via Hibernate API.
 
-##Features
+## Features
 ---
 
 * Loading information from database.
